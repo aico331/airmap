@@ -19,25 +19,33 @@
          			  23.9251750000
          	 	       ]
 		       }
-      },        
+      },
+        {
             "type": "Feature",
             "properties": {
-         
-	 "SiteName":"三重",
-         "SiteEngName":"Sanchong",
-         "AreaName":"北部空品區",
-         "County":"新北市",
-         "Township":null,
-         "SiteAddress":"新北市三重區三和路與重陽路交口",
-                       },
-
-           "geometry": {
+                "id": "0145080011",
+                "name": "衛生福利部花蓮醫院豐濱原住民分院",
+                "phone": "(03)8358141",
+                "address": "花蓮縣豐濱鄉豐濱村光豐路４１號",
+                "mask_adult": 737,
+                "mask_child": 479,
+                "updated": "2020\/06\/10 12:23:31",
+                "available": "",
+                "note": "販售口罩時段為每星期一至星期日上午9點至12點",
+                "custom_note": "",
+                "website": "",
+                "county": "花蓮縣",
+                "town": "豐濱鄉",
+                "cunli": "豐濱村",
+                "service_periods": ""
+            },
+            "geometry": {
                 "type": "Point",
-                "coordinates": [121.4938060000,
-         			 25.0726110000
-         	 	       ]
-		       }
-      }
-
-]
+                "coordinates": [
+                    121.521307,
+                    23.601975
+                ]
+            }
+        }
+    ]
 }
