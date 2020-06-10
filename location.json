@@ -1,95 +1,25 @@
 {
-   "include_total":true,
-   "resource_id":"fb92f773-27ca-470a-af04-6000397f7a4e",
-   "fields":[
-      {
-         "info":{
-            "notes":"",
-            "label":"\u6e2c\u7ad9\u540d\u7a31"
-         },
-         "type":"text",
-         "id":"SiteName"
-      },
-      {
-         "info":{
-            "notes":"",
-            "label":"\u6e2c\u7ad9\u82f1\u6587\u540d\u7a31"
-         },
-         "type":"text",
-         "id":"SiteEngName"
-      },
-      {
-         "info":{
-            "notes":"",
-            "label":"\u7a7a\u54c1\u5340"
-         },
-         "type":"text",
-         "id":"AreaName"
-      },
-      {
-         "info":{
-            "notes":"",
-            "label":"\u7e23\u5e02"
-         },
-         "type":"text",
-         "id":"County"
-      },
-      {
-         "info":{
-            "notes":"",
-            "label":"\u9109\u93ae"
-         },
-         "type":"text",
-         "id":"Township"
-      },
-      {
-         "info":{
-            "notes":"",
-            "label":"\u6e2c\u7ad9\u5730\u5740"
-         },
-         "type":"text",
-         "id":"SiteAddress"
-      },
-      {
-         "info":{
-            "notes":"",
-            "label":"\u7d93\u5ea6(TWD97)"
-         },
-         "type":"text",
-         "id":"TWD97Lon"
-      },
-      {
-         "info":{
-            "notes":"",
-            "label":"\u7def\u5ea6(TWD97)"
-         },
-         "type":"text",
-         "id":"TWD97Lat"
-      },
-      {
-         "info":{
-            "notes":"",
-            "label":"\u6e2c\u7ad9\u985e\u578b"
-         },
-         "type":"text",
-         "id":"SiteType"
-      }
-   ],
-   "__extras":{
-      "api_key":"9be7b239-557b-4c10-9775-78cadfc555e9"
-   },
-   "records_format":"objects",
-   "records":[
-      {
-         "SiteName":"二林",
+    "type": "FeatureCollection",
+
+    "features": [
+	{
+        "type": "Feature",
+         "properties": {
+         
+	 "SiteName":"二林",
          "SiteEngName":"Erlin",
          "AreaName":"中部空品區",
          "County":"彰化縣",
          "Township":null,
          "SiteAddress":"彰化縣二林鎮江山巷1號",
-         "TWD97Lon":"120.4096530000",
-         "TWD97Lat":"23.9251750000",
-         "SiteType":"一般測站"
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000",
+         	 	       ]
+		       }
       },
       {
          "SiteName":"三重",
@@ -928,11 +858,3 @@
          "SiteType":"背景測站"
       }
    ],
-   "limit":1000,
-   "offset":0,
-   "_links":{
-      "start":"/api/v1/aqx_p_07?api_key=9be7b239-557b-4c10-9775-78cadfc555e9&limit=1000&format=json",
-      "next":"/api/v1/aqx_p_07?api_key=9be7b239-557b-4c10-9775-78cadfc555e9&limit=1000&offset=1000&format=json"
-   },
-   "total":77
-}
