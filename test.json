@@ -4,54 +4,1034 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "5945030094",
-                "name": "二林",
-                "phone": "03-8889408",
-                "address": "花蓮縣玉里鎮國武里中山路２段５８號",
-                
-                "updated": "2020\/06\/10 12:44:30",
-                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午看診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上看診",
-               
-                "custom_note": "",
-                "website": "",
-                "county": "花蓮縣",
-                "town": "玉里鎮",
-                "cunli": "國武里",
-                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
-            },
-            "geometry": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    120.4096530000,
-         	     23.9251750000
-                ]
-            }
-        },        {
+                "coordinates": [120.4096530000,
+         			  23.9251750000
+         	 	       ]
+		       }
+      },        
             "type": "Feature",
             "properties": {
-                "id": "0145080011",
-                "name": "衛生福利部花蓮醫院豐濱原住民分院",
-                "phone": "(03)8358141",
-                "address": "花蓮縣豐濱鄉豐濱村光豐路４１號",
-                "mask_adult": 1542,
-                "mask_child": 2451,
-                "updated": "2020\/06\/10 12:23:31",
-                "available": "",
-                "note": "販售口罩時段為每星期一至星期日上午9點至12點",
-                "custom_note": "",
-                "website": "",
-                "county": "花蓮縣",
-                "town": "豐濱鄉",
-                "cunli": "豐濱村",
-                "service_periods": ""
-            },
-            "geometry": {
+         
+	 "SiteName":"三重",
+         "SiteEngName":"Sanchong",
+         "AreaName":"北部空品區",
+         "County":"新北市",
+         "Township":null,
+         "SiteAddress":"新北市三重區三和路與重陽路交口",
+                       },
+
+           "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    121.521307,
-                    23.601975
-                ]
-            }
-        }
-    ]
-}
+                "coordinates": [121.4938060000,
+         			 25.0726110000
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
+"type": "Feature",
+            "properties": {
+         
+	 "SiteName":"二林",
+         "SiteEngName":"Erlin",
+         "AreaName":"中部空品區",
+         "County":"彰化縣",
+         "Township":null,
+         "SiteAddress":"彰化縣二林鎮江山巷1號",
+                       },
+
+           "geometry": {
+                "type": "Point",
+                "coordinates": ["120.4096530000",
+         			  23.9251750000"
+         	 	       ]
+		       }
+      },
