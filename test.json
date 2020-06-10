@@ -28,14 +28,7 @@
                 ]
             }
         },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.315149,
-                    23.333096
-                ]
-            }
-        },
+            
         {
             "type": "Feature",
             "properties": {
