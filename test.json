@@ -4,22 +4,30 @@
         {
             "type": "Feature",
             "properties": {
-         
-	 "SiteName":"二林",
-         "SiteEngName":"Erlin",
-         "AreaName":"中部空品區",
-         "County":"彰化縣",
-         "Township":null,
-         "SiteAddress":"彰化縣二林鎮江山巷1號",
-                       },
-
-           "geometry": {
+                "id": "5943010683",
+                "name": "弘盛藥局",
+                "phone": "08-7367470",
+                "address": "屏東縣屏東市海豐街２９－１號",
+                "mask_adult": 1158,
+                "mask_child": 423,
+                "updated": "2020\/06\/10 13:59:29",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午看診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上看診",
+                "note": "營業日9:00am~9:00pm，  為販賣口罩時間，售完為止",
+                "custom_note": "",
+                "website": "",
+                "county": "屏東縣",
+                "town": "屏東市",
+                "cunli": "信和里",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
                 "type": "Point",
-                "coordinates": [120.4096530000,
-         			  23.9251750000
-         	 	       ]
-		       }
-      },
+                "coordinates": [
+                    120.510323,
+                    22.700845
+                ]
+            }
+        },
         {
             "type": "Feature",
             "properties": {
