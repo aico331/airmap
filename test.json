@@ -765,8 +765,7 @@
             "AreaName":"北部空品區",
             "County":"桃園市",
             "Township":null,
-            "SiteAddress":"桃園市桃園區莒光街15號",
-
+            "SiteAddress":"桃園市桃園區莒光街15號"
          },
          "geometry":{
             "type":"Point",
@@ -1175,115 +1174,43 @@
       {
          "type":"Feature",
          "properties":{
-            "SiteName"            ":"            "潮州"            ",
-
-
-         "            "SiteEngName"            ":"            "Chaozhou"            ",
-
-
-         "            "AreaName"            ":"            "高屏空品區"            ",
-
-
-         "            "County"            ":"            "屏東縣"            ",
-
-
-         "            "Township"            ":null,
-
-
-         "            "SiteAddress"            ":"            屏東縣潮州鎮復興路66號            ",
-
-
-                       },
-
-
-
-
-
-           "            "geometry"            ": {
-
-
-                "            "type"            ": "            "Point"            ",
-
-
-                "            "coordinates"            ": [120.5611750000,
-
-
-         			 22.5231080000
-
-
-         	 	       ]
-
-
-		       }
-
-
-      },{
-
-
-        "            "type"            ": "            "Feature"            ",
-
-
-         "            "properties"            ": {
-
-
-         
-
-
-	 "            "SiteName"            ":"            "線西"            ",
-
-
-         "            "SiteEngName"            ":"            "Xianxi"            ",
-
-
-         "            "AreaName"            ":"            "中部空品區"            ",
-
-
-         "            "County"            ":"            "彰化縣"            ",
-
-
-         "            "Township"            ":null,
-
-
-         "            "SiteAddress"            ":"            彰化縣線西鄉中央路2段145號            ",
-
-
-                       },
-
-
-
-
-
-           "            "geometry"            ": {
-
-
-                "            "type"            ": "            "Point"            ",
-
-
-                "            "coordinates"            ": [120.4690610000,
-
-
-         			 24.1316720000
-
-
-         	 	       ]
-
-
-		       }
-
-
-      },{
-
-
-        "            "type"            ": "            "Feature"            ",
-
-
-         "            "properties"            ": {
-
-
-         
-
-
-	 SiteName":"橋頭",
+            "SiteName":"潮州",
+            "SiteEngName":"Chaozhou",
+            "AreaName":"高屏空品區",
+            "County":"屏東縣",
+            "Township":null,
+            "SiteAddress":"屏東縣潮州鎮復興路66號"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               120.5611750000,
+               22.5231080000
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "SiteName":"線西",
+            "SiteEngName":"Xianxi",
+            "AreaName":"中部空品區",
+            "County":"彰化縣",
+            "Township":null,
+            "SiteAddress":"彰化縣線西鄉中央路2段145號"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               120.4690610000,
+               24.1316720000
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "SiteName":"橋頭",
             "SiteEngName":"Qiaotou",
             "AreaName":"高屏空品區",
             "County":"高雄市",
