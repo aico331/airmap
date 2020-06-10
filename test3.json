@@ -1,52 +1,50 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-       "type": "Feature",
-         "properties": {
-         
-	     "name":"二林",
-         "SiteEngName":"Erlin",
-         "AreaName":"中部空品區",
-         "County":"彰化縣",
-         "Township":null,
-         "SiteAddress":"彰化縣二林鎮江山巷1號",
-                       },
-
-           "geometry": {
-                "type": "Point",
-                "coordinates": [120.4096530000,
-         			  23.9251750000
-         	 	       ]
-		       }
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"二林",
+            "SiteEngName":"Erlin",
+            "AreaName":"中部空品區",
+            "County":"彰化縣",
+            "Township":null,
+            "SiteAddress":"彰化縣二林鎮江山巷1號"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               120.4096530000,
+               23.9251750000
+            ]
+         }
       },
-            
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "0145080011",
-                "name": "衛生福利部花蓮醫院豐濱原住民分院",
-                "phone": "(03)8358141",
-                "address": "花蓮縣豐濱鄉豐濱村光豐路４１號",
-                "mask_adult": 737,
-                "mask_child": 479,
-                "updated": "2020\/06\/10 12:23:31",
-                "available": "",
-                "note": "販售口罩時段為每星期一至星期日上午9點至12點",
-                "custom_note": "",
-                "website": "",
-                "county": "花蓮縣",
-                "town": "豐濱鄉",
-                "cunli": "豐濱村",
-                "service_periods": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.521307,
-                    23.601975
-                ]
-            }
-        }
-    ]
+      {
+         "type":"Feature",
+         "properties":{
+            "id":"0145080011",
+            "name":"衛生福利部花蓮醫院豐濱原住民分院",
+            "phone":"(03)8358141",
+            "address":"花蓮縣豐濱鄉豐濱村光豐路４１號",
+            "mask_adult":737,
+            "mask_child":479,
+            "updated":"2020\/06\/10 12:23:31",
+            "available":"",
+            "note":"販售口罩時段為每星期一至星期日上午9點至12點",
+            "custom_note":"",
+            "website":"",
+            "county":"花蓮縣",
+            "town":"豐濱鄉",
+            "cunli":"豐濱村",
+            "service_periods":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               121.521307,
+               23.601975
+            ]
+         }
+      }
+   ]
 }
