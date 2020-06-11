@@ -9,7 +9,7 @@
             "AreaName":"中部空品區",
             "County":"彰化縣",
             "Township":null,
-            "address":"彰化縣二林鎮江山巷1號",
+            "address":"彰化縣二林鎮江山巷1號"
          },
          "geometry":{
             "type":"Point",
@@ -1323,7 +1323,7 @@
             "AreaName":"雲嘉南空品區",
             "County":"臺南市",
             "Township":null,
-            "address":"臺南市中西區南寧街45號",
+            "address":"臺南市中西區南寧街45號"
          },
          "geometry":{
             "type":"Point",
