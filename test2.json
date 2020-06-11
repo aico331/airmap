@@ -1323,9 +1323,9 @@
             "AreaName":"雲嘉南空品區",
             "County":"臺南市",
             "Township":null,
-            "SiteAddress":"臺南市中西區南寧街45號"
+            "SiteAddress":"臺南市中西區南寧街45號",
             "mask_adult": 921,
-            "mask_child": 554,
+            "mask_child": 554
          },
          "geometry":{
             "type":"Point",
