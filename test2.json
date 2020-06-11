@@ -11,7 +11,7 @@
             "mask_adult": 1614,
             "mask_child": 704,
             "Township":null,
-            "addresss":"彰化縣二林鎮江山巷1號"
+            "address":"彰化縣二林鎮江山巷1號"
          },
          "geometry":{
             "type":"Point",
@@ -29,7 +29,7 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "addresss":"新北市三重區三和路與重陽路交口"
+            "address":"新北市三重區三和路與重陽路交口"
          },
          "geometry":{
             "type":"Point",
@@ -47,7 +47,7 @@
             "AreaName":"竹苗空品區",
             "County":"苗栗縣",
             "Township":null,
-            "addresss":"苗栗縣三義鄉西湖村上湖61-1號"
+            "address":"苗栗縣三義鄉西湖村上湖61-1號"
          },
          "geometry":{
             "type":"Point",
@@ -65,7 +65,7 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "addresss":"新北市土城區學府路1段241號"
+            "address":"新北市土城區學府路1段241號"
          },
          "geometry":{
             "type":"Point",
@@ -83,7 +83,7 @@
             "AreaName":"北部空品區",
             "County":"臺北市",
             "Township":null,
-            "addresss":"臺北市北投區文林北路155號"
+            "address":"臺北市北投區文林北路155號"
          },
          "geometry":{
             "type":"Point",
@@ -101,7 +101,7 @@
             "AreaName":"北部空品區",
             "County":"臺北市",
             "Township":null,
-            "addresss":"臺北市大同區重慶北路3段2號"
+            "address":"臺北市大同區重慶北路3段2號"
          },
          "geometry":{
             "type":"Point",
@@ -119,7 +119,7 @@
             "AreaName":"中部空品區",
             "County":"臺中市",
             "Township":null,
-            "addresss":"臺中市大里區大新街36號"
+            "address":"臺中市大里區大新街36號"
          },
          "geometry":{
             "type":"Point",
@@ -137,7 +137,7 @@
             "AreaName":"北部空品區",
             "County":"桃園市",
             "Township":null,
-            "addresss":"桃園市大園區中正東路160號"
+            "address":"桃園市大園區中正東路160號"
          },
          "geometry":{
             "type":"Point",
@@ -155,7 +155,7 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "addresss":"高雄市大寮區潮寮路61號"
+            "address":"高雄市大寮區潮寮路61號"
          },
          "geometry":{
             "type":"Point",
@@ -173,7 +173,7 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "addresss":"高雄市小港區平和南路185號"
+            "address":"高雄市小港區平和南路185號"
          },
          "geometry":{
             "type":"Point",
@@ -191,7 +191,7 @@
             "AreaName":"北部空品區",
             "County":"臺北市",
             "Township":null,
-            "addresss":"臺北市中山區林森北路511號"
+            "address":"臺北市中山區林森北路511號"
          },
          "geometry":{
             "type":"Point",
@@ -209,7 +209,7 @@
             "AreaName":"北部空品區",
             "County":"桃園市",
             "Township":null,
-            "addresss":"桃園市中壢區延平路622號"
+            "address":"桃園市中壢區延平路622號"
          },
          "geometry":{
             "type":"Point",
@@ -227,7 +227,7 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "addresss":"高雄市仁武區永仁街555號"
+            "address":"高雄市仁武區永仁街555號"
          },
          "geometry":{
             "type":"Point",
@@ -245,7 +245,7 @@
             "AreaName":"雲嘉南空品區",
             "County":"雲林縣",
             "Township":null,
-            "addresss":"雲林縣斗六市民生路224號"
+            "address":"雲林縣斗六市民生路224號"
          },
          "geometry":{
             "type":"Point",
@@ -263,7 +263,7 @@
             "AreaName":"宜蘭空品區",
             "County":"宜蘭縣",
             "Township":null,
-            "addresss":"宜蘭縣冬山鄉照安路26號"
+            "address":"宜蘭縣冬山鄉照安路26號"
          },
          "geometry":{
             "type":"Point",
@@ -281,7 +281,7 @@
             "AreaName":"北部空品區",
             "County":"臺北市",
             "Township":null,
-            "addresss":"臺北市大安區羅斯福路3段201號"
+            "address":"臺北市大安區羅斯福路3段201號"
          },
          "geometry":{
             "type":"Point",
@@ -299,7 +299,7 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "addresss":"高雄市左營區翠華路687號"
+            "address":"高雄市左營區翠華路687號"
          },
          "geometry":{
             "type":"Point",
@@ -317,7 +317,7 @@
             "AreaName":"北部空品區",
             "County":"桃園市",
             "Township":null,
-            "addresss":"桃園市平鎮區復興街55號"
+            "address":"桃園市平鎮區復興街55號"
          },
          "geometry":{
             "type":"Point",
@@ -335,7 +335,7 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "addresss":"新北市永和區永和路與光復路交口"
+            "address":"新北市永和區永和路與光復路交口"
          },
          "geometry":{
             "type":"Point",
@@ -353,7 +353,7 @@
             "AreaName":"雲嘉南空品區",
             "County":"臺南市",
             "Township":null,
-            "addresss":"臺南市安南區安和路3段193號"
+            "address":"臺南市安南區安和路3段193號"
          },
          "geometry":{
             "type":"Point",
@@ -371,7 +371,7 @@
             "AreaName":"雲嘉南空品區",
             "County":"嘉義縣",
             "Township":null,
-            "addresss":"嘉義縣朴子市光復路34號"
+            "address":"嘉義縣朴子市光復路34號"
          },
          "geometry":{
             "type":"Point",
@@ -389,7 +389,7 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "addresss":"新北市汐止區樟樹一路137巷26號"
+            "address":"新北市汐止區樟樹一路137巷26號"
          },
          "geometry":{
             "type":"Point",
@@ -407,7 +407,7 @@
             "AreaName":"中部空品區",
             "County":"南投縣",
             "Township":null,
-            "addresss":"南投縣竹山鎮大明路666號"
+            "address":"南投縣竹山鎮大明路666號"
          },
          "geometry":{
             "type":"Point",
@@ -425,7 +425,7 @@
             "AreaName":"竹苗空品區",
             "County":"新竹縣",
             "Township":null,
-            "addresss":"新竹縣竹東鎮榮樂里三民街70號"
+            "address":"新竹縣竹東鎮榮樂里三民街70號"
          },
          "geometry":{
             "type":"Point",
@@ -443,7 +443,7 @@
             "AreaName":"中部空品區",
             "County":"臺中市",
             "Township":null,
-            "addresss":"臺中市西屯區安和路1號"
+            "address":"臺中市西屯區安和路1號"
          },
          "geometry":{
             "type":"Point",
@@ -461,7 +461,7 @@
             "AreaName":"中部空品區",
             "County":"臺中市",
             "Township":null,
-            "addresss":"臺中市沙鹿區英才路150號"
+            "address":"臺中市沙鹿區英才路150號"
          },
          "geometry":{
             "type":"Point",
@@ -479,7 +479,7 @@
             "AreaName":"宜蘭空品區",
             "County":"宜蘭縣",
             "Township":null,
-            "addresss":"宜蘭縣宜蘭市復興路二段77號"
+            "address":"宜蘭縣宜蘭市復興路二段77號"
          },
          "geometry":{
             "type":"Point",
@@ -497,7 +497,7 @@
             "AreaName":"中部空品區",
             "County":"臺中市",
             "Township":null,
-            "addresss":"臺中市南屯區公益路2段296號"
+            "address":"臺中市南屯區公益路2段296號"
          },
          "geometry":{
             "type":"Point",
@@ -515,7 +515,7 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "addresss":"新北市林口區文化北路1段425號"
+            "address":"新北市林口區文化北路1段425號"
          },
          "geometry":{
             "type":"Point",
@@ -533,7 +533,7 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "addresss":"高雄市林園區北汕路58巷2號"
+            "address":"高雄市林園區北汕路58巷2號"
          },
          "geometry":{
             "type":"Point",
@@ -551,7 +551,7 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "addresss":"新北市板橋區文化路1段25號"
+            "address":"新北市板橋區文化路1段25號"
          },
          "geometry":{
             "type":"Point",
@@ -569,7 +569,7 @@
             "AreaName":"北部空品區",
             "County":"臺北市",
             "Township":null,
-            "addresss":"臺北市松山區八德路4段746號"
+            "address":"臺北市松山區八德路4段746號"
          },
          "geometry":{
             "type":"Point",
@@ -587,7 +587,7 @@
             "AreaName":"花東空品區",
             "County":"花蓮縣",
             "Township":null,
-            "addresss":"花蓮縣花蓮市中正路210號"
+            "address":"花蓮縣花蓮市中正路210號"
          },
          "geometry":{
             "type":"Point",
@@ -605,7 +605,7 @@
             "AreaName":"其他",
             "County":"金門縣",
             "Township":null,
-            "addresss":"金門縣金城鎮民權路32號"
+            "address":"金門縣金城鎮民權路32號"
          },
          "geometry":{
             "type":"Point",
@@ -623,7 +623,7 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "addresss":"高雄市前金區河南二路196號"
+            "address":"高雄市前金區河南二路196號"
          },
          "geometry":{
             "type":"Point",
@@ -641,7 +641,7 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "addresss":"高雄市前鎮區中山三路43號"
+            "address":"高雄市前鎮區中山三路43號"
          },
          "geometry":{
             "type":"Point",
@@ -659,7 +659,7 @@
             "AreaName":"中部空品區",
             "County":"南投縣",
             "Township":null,
-            "addresss":"南投縣南投市南陽路269號"
+            "address":"南投縣南投市南陽路269號"
          },
          "geometry":{
             "type":"Point",
@@ -677,7 +677,7 @@
             "AreaName":"高屏空品區",
             "County":"屏東縣",
             "Township":null,
-            "addresss":"屏東縣屏東市蘇州街75號"
+            "address":"屏東縣屏東市蘇州街75號"
          },
          "geometry":{
             "type":"Point",
@@ -695,7 +695,7 @@
             "AreaName":"高屏空品區",
             "County":"屏東縣",
             "Township":null,
-            "addresss":"屏東縣恆春鎮公園路44號"
+            "address":"屏東縣恆春鎮公園路44號"
          },
          "geometry":{
             "type":"Point",
@@ -713,7 +713,7 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "addresss":"高雄市美濃區忠孝路19號"
+            "address":"高雄市美濃區忠孝路19號"
          },
          "geometry":{
             "type":"Point",
@@ -731,7 +731,7 @@
             "AreaName":"竹苗空品區",
             "County":"苗栗縣",
             "Township":null,
-            "addresss":"苗栗縣苗栗市縣府路100號"
+            "address":"苗栗縣苗栗市縣府路100號"
          },
          "geometry":{
             "type":"Point",
@@ -749,7 +749,7 @@
             "AreaName":"中部空品區",
             "County":"南投縣",
             "Township":null,
-            "addresss":"南投縣埔里鎮西安路1段193號"
+            "address":"南投縣埔里鎮西安路1段193號"
          },
          "geometry":{
             "type":"Point",
@@ -767,7 +767,7 @@
             "AreaName":"北部空品區",
             "County":"桃園市",
             "Township":null,
-            "addresss":"桃園市桃園區莒光街15號"
+            "address":"桃園市桃園區莒光街15號"
          },
          "geometry":{
             "type":"Point",
@@ -785,7 +785,7 @@
             "AreaName":"其他",
             "County":"澎湖縣",
             "Township":null,
-            "addresss":"澎湖縣馬公市中正路115號"
+            "address":"澎湖縣馬公市中正路115號"
          },
          "geometry":{
             "type":"Point",
@@ -803,7 +803,7 @@
             "AreaName":"其他",
             "County":"連江縣",
             "Township":null,
-            "addresss":"連江縣南竿鄉介壽村156-10號"
+            "address":"連江縣南竿鄉介壽村156-10號"
          },
          "geometry":{
             "type":"Point",
@@ -821,7 +821,7 @@
             "AreaName":"北部空品區",
             "County":"基隆市",
             "Township":null,
-            "addresss":"基隆市信義區東信路324號"
+            "address":"基隆市信義區東信路324號"
          },
          "geometry":{
             "type":"Point",
@@ -839,7 +839,7 @@
             "AreaName":"雲嘉南空品區",
             "County":"雲林縣",
             "Township":null,
-            "addresss":"雲林縣崙背鄉大成路91號"
+            "address":"雲林縣崙背鄉大成路91號"
          },
          "geometry":{
             "type":"Point",
@@ -857,7 +857,7 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "addresss":"新北市淡水區中正東路42巷6號"
+            "address":"新北市淡水區中正東路42巷6號"
          },
          "geometry":{
             "type":"Point",
@@ -875,7 +875,7 @@
             "AreaName":"雲嘉南空品區",
             "County":"雲林縣",
             "Township":null,
-            "addresss":"雲林縣麥寮鄉中興路115號"
+            "address":"雲林縣麥寮鄉中興路115號"
          },
          "geometry":{
             "type":"Point",
@@ -893,7 +893,7 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "addresss":"高雄市前鎮區民權二路331號"
+            "address":"高雄市前鎮區民權二路331號"
          },
          "geometry":{
             "type":"Point",
@@ -911,7 +911,7 @@
             "AreaName":"竹苗空品區",
             "County":"新竹縣",
             "Township":null,
-            "addresss":"新竹縣湖口鄉成功路360號"
+            "address":"新竹縣湖口鄉成功路360號"
          },
          "geometry":{
             "type":"Point",
@@ -929,7 +929,7 @@
             "AreaName":"雲嘉南空品區",
             "County":"臺南市",
             "Township":null,
-            "addresss":"臺南市善化區益民寮60號"
+            "address":"臺南市善化區益民寮60號"
          },
          "geometry":{
             "type":"Point",
@@ -947,7 +947,7 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "addresss":"新北市三重區中正北路163號"
+            "address":"新北市三重區中正北路163號"
          },
          "geometry":{
             "type":"Point",
@@ -965,7 +965,7 @@
             "AreaName":"北部空品區",
             "County":"臺北市",
             "Township":null,
-            "addresss":"臺北市北投區竹子湖路111號"
+            "address":"臺北市北投區竹子湖路111號"
          },
          "geometry":{
             "type":"Point",
@@ -983,7 +983,7 @@
             "AreaName":"竹苗空品區",
             "County":"新竹市",
             "Township":null,
-            "addresss":"新竹市東區民族路33號"
+            "address":"新竹市東區民族路33號"
          },
          "geometry":{
             "type":"Point",
@@ -1001,7 +1001,7 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "addresss":"新北市新店區民族路108號"
+            "address":"新北市新店區民族路108號"
          },
          "geometry":{
             "type":"Point",
@@ -1019,7 +1019,7 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "addresss":"新北市新莊區中正路510號"
+            "address":"新北市新莊區中正路510號"
          },
          "geometry":{
             "type":"Point",
@@ -1037,7 +1037,7 @@
             "AreaName":"雲嘉南空品區",
             "County":"嘉義縣",
             "Township":null,
-            "addresss":"嘉義縣新港鄉登雲路105號"
+            "address":"嘉義縣新港鄉登雲路105號"
          },
          "geometry":{
             "type":"Point",
@@ -1055,7 +1055,7 @@
             "AreaName":"雲嘉南空品區",
             "County":"臺南市",
             "Township":null,
-            "addresss":"臺南市新營區中正路4號"
+            "address":"臺南市新營區中正路4號"
          },
          "geometry":{
             "type":"Point",
@@ -1073,7 +1073,7 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "addresss":"高雄市楠梓區楠梓路262號"
+            "address":"高雄市楠梓區楠梓路262號"
          },
          "geometry":{
             "type":"Point",
@@ -1091,7 +1091,7 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "addresss":"新北市萬里區瑪鋉路221號"
+            "address":"新北市萬里區瑪鋉路221號"
          },
          "geometry":{
             "type":"Point",
@@ -1109,7 +1109,7 @@
             "AreaName":"北部空品區",
             "County":"臺北市",
             "Township":null,
-            "addresss":"臺北市萬華區中華路1段66號"
+            "address":"臺北市萬華區中華路1段66號"
          },
          "geometry":{
             "type":"Point",
@@ -1127,7 +1127,7 @@
             "AreaName":"雲嘉南空品區",
             "County":"嘉義市",
             "Township":null,
-            "addresss":"嘉義市西區新民路580號"
+            "address":"嘉義市西區新民路580號"
          },
          "geometry":{
             "type":"Point",
@@ -1145,7 +1145,7 @@
             "AreaName":"中部空品區",
             "County":"彰化縣",
             "Township":null,
-            "addresss":"彰化縣彰化市文心街55號"
+            "address":"彰化縣彰化市文心街55號"
          },
          "geometry":{
             "type":"Point",
@@ -1163,7 +1163,7 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "addresss":"高雄市鳳山區曹公路6號"
+            "address":"高雄市鳳山區曹公路6號"
          },
          "geometry":{
             "type":"Point",
@@ -1181,7 +1181,7 @@
             "AreaName":"高屏空品區",
             "County":"屏東縣",
             "Township":null,
-            "addresss":"屏東縣潮州鎮復興路66號"
+            "address":"屏東縣潮州鎮復興路66號"
          },
          "geometry":{
             "type":"Point",
@@ -1199,7 +1199,7 @@
             "AreaName":"中部空品區",
             "County":"彰化縣",
             "Township":null,
-            "addresss":"彰化縣線西鄉中央路2段145號"
+            "address":"彰化縣線西鄉中央路2段145號"
          },
          "geometry":{
             "type":"Point",
@@ -1217,7 +1217,7 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "addresss":"高雄市橋頭區隆豐北路1號"
+            "address":"高雄市橋頭區隆豐北路1號"
          },
          "geometry":{
             "type":"Point",
@@ -1235,7 +1235,7 @@
             "AreaName":"竹苗空品區",
             "County":"苗栗縣",
             "Township":null,
-            "addresss":"苗栗縣頭份市文化街20號"
+            "address":"苗栗縣頭份市文化街20號"
          },
          "geometry":{
             "type":"Point",
@@ -1253,7 +1253,7 @@
             "AreaName":"北部空品區",
             "County":"桃園市",
             "Township":null,
-            "addresss":"桃園市龍潭區中正路210號"
+            "address":"桃園市龍潭區中正路210號"
          },
          "geometry":{
             "type":"Point",
@@ -1271,7 +1271,7 @@
             "AreaName":"中部空品區",
             "County":"臺中市",
             "Township":null,
-            "addresss":"臺中市豐原區水源路150號"
+            "address":"臺中市豐原區水源路150號"
          },
          "geometry":{
             "type":"Point",
@@ -1289,7 +1289,7 @@
             "AreaName":"花東空品區",
             "County":"臺東縣",
             "Township":null,
-            "addresss":"臺東縣關山鎮自強路66號"
+            "address":"臺東縣關山鎮自強路66號"
          },
          "geometry":{
             "type":"Point",
@@ -1307,7 +1307,7 @@
             "AreaName":"北部空品區",
             "County":"桃園市",
             "Township":null,
-            "addresss":"桃園市觀音區文化路2號"
+            "address":"桃園市觀音區文化路2號"
          },
          "geometry":{
             "type":"Point",
@@ -1325,7 +1325,7 @@
             "AreaName":"雲嘉南空品區",
             "County":"臺南市",
             "Township":null,
-            "addresss":"臺南市中西區南寧街45號",
+            "address":"臺南市中西區南寧街45號",
             "mask_adult":921,
             "mask_child":554
          },
@@ -1345,7 +1345,7 @@
             "AreaName":"花東空品區",
             "County":"臺東縣",
             "Township":null,
-            "addresss":"臺東縣臺東市中山路276號"
+            "address":"臺東縣臺東市中山路276號"
          },
          "geometry":{
             "type":"Point",
@@ -1363,7 +1363,7 @@
             "AreaName":"雲嘉南空品區",
             "County":"雲林縣",
             "Township":null,
-            "addresss":"雲林縣臺西鄉五港路505號"
+            "address":"雲林縣臺西鄉五港路505號"
          },
          "geometry":{
             "type":"Point",
@@ -1381,7 +1381,7 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "addresss":"新北市石門區富貴角海邊"
+            "address":"新北市石門區富貴角海邊"
          },
          "geometry":{
             "type":"Point",
