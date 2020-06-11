@@ -8,6 +8,8 @@
             "SiteEngName":"Erlin",
             "AreaName":"中部空品區",
             "County":"彰化縣",
+            "mask_adult": 1614,
+            "mask_child": 704,
             "Township":null,
             "SiteAddress":"彰化縣二林鎮江山巷1號"
          },
