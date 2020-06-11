@@ -7,9 +7,7 @@
             "name":"二林",
             "SiteEngName":"Erlin",
             "AreaName":"中部空品區",
-            "County":"彰化縣",
-            "mask_adult": 1614,
-            "mask_child": 704,
+            "County":"彰化縣"
             "Township":null,
             "address":"彰化縣二林鎮江山巷1號"
          },
@@ -1326,8 +1324,6 @@
             "County":"臺南市",
             "Township":null,
             "address":"臺南市中西區南寧街45號",
-            "mask_adult":921,
-            "mask_child":554
          },
          "geometry":{
             "type":"Point",
