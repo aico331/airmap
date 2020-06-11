@@ -9,7 +9,7 @@
             "AreaName":"中部空品區",
             "County":"彰化縣"
             "Township":null,
-            "address":"彰化縣二林鎮江山巷1號"
+            "address":"彰化縣二林鎮江山巷1號",
          },
          "geometry":{
             "type":"Point",
