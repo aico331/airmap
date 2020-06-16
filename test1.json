@@ -10,8 +10,8 @@
             "County":"彰化縣",
             "Township":null,
             "address":"彰化縣二林鎮江山巷1號",
-            "AQI": 10,
-            "PM25": 15
+            "AQI": 50,
+            "PM25": 50
          },
          "geometry":{
             "type":"Point",
@@ -1147,7 +1147,7 @@
             "Township":null,
             "address":"彰化縣彰化市文心街55號",
             "AQI": 10,
-            "PM25": 15
+            "PM25": 11
          },
          "geometry":{
             "type":"Point",
@@ -1201,7 +1201,9 @@
             "AreaName":"中部空品區",
             "County":"彰化縣",
             "Township":null,
-            "address":"彰化縣線西鄉中央路2段145號"
+            "address":"彰化縣線西鄉中央路2段145號",
+            "AQI":100,
+            "PM25":101
          },
          "geometry":{
             "type":"Point",
