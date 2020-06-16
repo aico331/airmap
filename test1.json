@@ -10,8 +10,8 @@
             "County":"彰化縣",
             "Township":null,
             "address":"彰化縣二林鎮江山巷1號",
-            "mask_adult": 10,
-            "mask_child": 15
+            "AQI": 10,
+            "PM25": 15
          },
          "geometry":{
             "type":"Point",
@@ -1147,7 +1147,7 @@
             "Township":null,
             "address":"彰化縣彰化市文心街55號",
             "AQI": 10,
-            "PM2.5": 15
+            "PM25": 15
          },
          "geometry":{
             "type":"Point",
