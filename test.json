@@ -10,6 +10,8 @@
             "County":"彰化縣",
             "Township":null,
             "address":"彰化縣二林鎮江山巷1號"
+            "mask_adult": 10,
+             "mask_child": 15,
          },
          "geometry":{
             "type":"Point",
