@@ -309,10 +309,10 @@
             "AreaName":"北部空品區",
             "County":"臺北市",
             "Township":null,
-            "address":"臺北市大安區羅斯福路3段201號"
-         },,
+            "address":"臺北市大安區羅斯福路3段201號",
             "AQI": 58,
             "PM25": 12
+         },
          "geometry":{
             "type":"Point",
             "coordinates":[
@@ -1332,7 +1332,7 @@
             "Township":null,
             "address":"彰化縣線西鄉中央路2段145號",
             "AQI":24,
-            "PM25"：7
+            "PM25":7 
          },
          "geometry":{
             "type":"Point",
@@ -1511,8 +1511,8 @@
             "County":"雲林縣",
             "Township":null,
             "address":"雲林縣臺西鄉五港路505號",
-            "AQI": ,
-            "PM25": 
+            "AQI": 0,
+            "PM25": 0
          },
          "geometry":{
             "type":"Point",
