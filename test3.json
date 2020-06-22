@@ -10,8 +10,8 @@
             "County":"彰化縣",
             "Township":null,
             "address":"彰化縣二林鎮江山巷1號",
-            "AQI": 50,
-            "PM25": 50
+            "AQI": 44,
+            "PM25": 14
          },
          "geometry":{
             "type":"Point",
@@ -29,7 +29,9 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "address":"新北市三重區三和路與重陽路交口"
+            "address":"新北市三重區三和路與重陽路交口",
+            "AQI": 53,
+            "PM25": 16
          },
          "geometry":{
             "type":"Point",
@@ -47,7 +49,9 @@
             "AreaName":"竹苗空品區",
             "County":"苗栗縣",
             "Township":null,
-            "address":"苗栗縣三義鄉西湖村上湖61-1號"
+            "address":"苗栗縣三義鄉西湖村上湖61-1號",
+            "AQI": 32,
+            "PM25": 10
          },
          "geometry":{
             "type":"Point",
@@ -65,7 +69,9 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "address":"新北市土城區學府路1段241號"
+            "address":"新北市土城區學府路1段241號",
+            "AQI": 58,
+            "PM25": 10
          },
          "geometry":{
             "type":"Point",
@@ -83,7 +89,9 @@
             "AreaName":"北部空品區",
             "County":"臺北市",
             "Township":null,
-            "address":"臺北市北投區文林北路155號"
+            "address":"臺北市北投區文林北路155號",
+            "AQI": 46,
+            "PM25": 11
          },
          "geometry":{
             "type":"Point",
@@ -101,7 +109,9 @@
             "AreaName":"北部空品區",
             "County":"臺北市",
             "Township":null,
-            "address":"臺北市大同區重慶北路3段2號"
+            "address":"臺北市大同區重慶北路3段2號",
+            "AQI": 42,
+            "PM25": 13
          },
          "geometry":{
             "type":"Point",
@@ -119,7 +129,9 @@
             "AreaName":"中部空品區",
             "County":"臺中市",
             "Township":null,
-            "address":"臺中市大里區大新街36號"
+            "address":"臺中市大里區大新街36號",
+            "AQI": 37,
+            "PM25": 11
          },
          "geometry":{
             "type":"Point",
@@ -137,7 +149,9 @@
             "AreaName":"北部空品區",
             "County":"桃園市",
             "Township":null,
-            "address":"桃園市大園區中正東路160號"
+            "address":"桃園市大園區中正東路160號",
+            "AQI": 29,
+            "PM25": 9
          },
          "geometry":{
             "type":"Point",
@@ -155,7 +169,9 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "address":"高雄市大寮區潮寮路61號"
+            "address":"高雄市大寮區潮寮路61號",
+            "AQI": 29,
+            "PM25": 9
          },
          "geometry":{
             "type":"Point",
@@ -173,7 +189,9 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "address":"高雄市小港區平和南路185號"
+            "address":"高雄市小港區平和南路185號",
+            "AQI": 20,
+            "PM25": 4
          },
          "geometry":{
             "type":"Point",
@@ -191,7 +209,9 @@
             "AreaName":"北部空品區",
             "County":"臺北市",
             "Township":null,
-            "address":"臺北市中山區林森北路511號"
+            "address":"臺北市中山區林森北路511號",
+            "AQI": 42,
+            "PM25": 11
          },
          "geometry":{
             "type":"Point",
@@ -209,7 +229,9 @@
             "AreaName":"北部空品區",
             "County":"桃園市",
             "Township":null,
-            "address":"桃園市中壢區延平路622號"
+            "address":"桃園市中壢區延平路622號",
+            "AQI": 34,
+            "PM25": 10
          },
          "geometry":{
             "type":"Point",
@@ -227,7 +249,9 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "address":"高雄市仁武區永仁街555號"
+            "address":"高雄市仁武區永仁街555號",
+            "AQI": 21,
+            "PM25": 7
          },
          "geometry":{
             "type":"Point",
@@ -245,7 +269,9 @@
             "AreaName":"雲嘉南空品區",
             "County":"雲林縣",
             "Township":null,
-            "address":"雲林縣斗六市民生路224號"
+            "address":"雲林縣斗六市民生路224號",
+            "AQI": 31,
+            "PM25": 7
          },
          "geometry":{
             "type":"Point",
@@ -263,7 +289,9 @@
             "AreaName":"宜蘭空品區",
             "County":"宜蘭縣",
             "Township":null,
-            "address":"宜蘭縣冬山鄉照安路26號"
+            "address":"宜蘭縣冬山鄉照安路26號",
+            "AQI": 37,
+            "PM25": 6
          },
          "geometry":{
             "type":"Point",
@@ -282,7 +310,9 @@
             "County":"臺北市",
             "Township":null,
             "address":"臺北市大安區羅斯福路3段201號"
-         },
+         },,
+            "AQI": 58,
+            "PM25": 12
          "geometry":{
             "type":"Point",
             "coordinates":[
@@ -299,7 +329,9 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "address":"高雄市左營區翠華路687號"
+            "address":"高雄市左營區翠華路687號",
+            "AQI": 22,
+            "PM25": 4
          },
          "geometry":{
             "type":"Point",
@@ -317,7 +349,9 @@
             "AreaName":"北部空品區",
             "County":"桃園市",
             "Township":null,
-            "address":"桃園市平鎮區復興街55號"
+            "address":"桃園市平鎮區復興街55號",
+            "AQI": 36,
+            "PM25": 11
          },
          "geometry":{
             "type":"Point",
@@ -335,8 +369,11 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "address":"新北市永和區永和路與光復路交口"
+            "address":"新北市永和區永和路與光復路交口",
+            "AQI": 32,
+            "PM25": 10
          },
+    
          "geometry":{
             "type":"Point",
             "coordinates":[
@@ -353,7 +390,9 @@
             "AreaName":"雲嘉南空品區",
             "County":"臺南市",
             "Township":null,
-            "address":"臺南市安南區安和路3段193號"
+            "address":"臺南市安南區安和路3段193號",
+            "AQI": 24,
+            "PM25": 7
          },
          "geometry":{
             "type":"Point",
@@ -371,7 +410,9 @@
             "AreaName":"雲嘉南空品區",
             "County":"嘉義縣",
             "Township":null,
-            "address":"嘉義縣朴子市光復路34號"
+            "address":"嘉義縣朴子市光復路34號",
+            "AQI": ,
+            "PM25": 
          },
          "geometry":{
             "type":"Point",
@@ -389,7 +430,9 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "address":"新北市汐止區樟樹一路137巷26號"
+            "address":"新北市汐止區樟樹一路137巷26號",
+            "AQI": 74,
+            "PM25": 12
          },
          "geometry":{
             "type":"Point",
@@ -407,7 +450,9 @@
             "AreaName":"中部空品區",
             "County":"南投縣",
             "Township":null,
-            "address":"南投縣竹山鎮大明路666號"
+            "address":"南投縣竹山鎮大明路666號",
+            "AQI": 38,
+            "PM25": 8
          },
          "geometry":{
             "type":"Point",
@@ -425,7 +470,9 @@
             "AreaName":"竹苗空品區",
             "County":"新竹縣",
             "Township":null,
-            "address":"新竹縣竹東鎮榮樂里三民街70號"
+            "address":"新竹縣竹東鎮榮樂里三民街70號",
+            "AQI": 40,
+            "PM25": 10
          },
          "geometry":{
             "type":"Point",
@@ -443,7 +490,9 @@
             "AreaName":"中部空品區",
             "County":"臺中市",
             "Township":null,
-            "address":"臺中市西屯區安和路1號"
+            "address":"臺中市西屯區安和路1號",
+            "AQI": 33,
+            "PM25": 8
          },
          "geometry":{
             "type":"Point",
@@ -461,7 +510,9 @@
             "AreaName":"中部空品區",
             "County":"臺中市",
             "Township":null,
-            "address":"臺中市沙鹿區英才路150號"
+            "address":"臺中市沙鹿區英才路150號",
+            "AQI": 26,
+            "PM25": 6
          },
          "geometry":{
             "type":"Point",
@@ -479,7 +530,9 @@
             "AreaName":"宜蘭空品區",
             "County":"宜蘭縣",
             "Township":null,
-            "address":"宜蘭縣宜蘭市復興路二段77號"
+            "address":"宜蘭縣宜蘭市復興路二段77號",
+            "AQI": 40,
+            "PM25": 9
          },
          "geometry":{
             "type":"Point",
@@ -497,7 +550,9 @@
             "AreaName":"中部空品區",
             "County":"臺中市",
             "Township":null,
-            "address":"臺中市南屯區公益路2段296號"
+            "address":"臺中市南屯區公益路2段296號",
+            "AQI": 31,
+            "PM25": 9
          },
          "geometry":{
             "type":"Point",
@@ -515,7 +570,9 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "address":"新北市林口區文化北路1段425號"
+            "address":"新北市林口區文化北路1段425號",
+            "AQI": 37,
+            "PM25": 9
          },
          "geometry":{
             "type":"Point",
@@ -533,7 +590,9 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "address":"高雄市林園區北汕路58巷2號"
+            "address":"高雄市林園區北汕路58巷2號",
+            "AQI": 24,
+            "PM25": 6
          },
          "geometry":{
             "type":"Point",
@@ -551,7 +610,9 @@
             "AreaName":"北部空品區",
             "County":"新北市",
             "Township":null,
-            "address":"新北市板橋區文化路1段25號"
+            "address":"新北市板橋區文化路1段25號",
+            "AQI": 44,
+            "PM25": 10
          },
          "geometry":{
             "type":"Point",
@@ -569,7 +630,9 @@
             "AreaName":"北部空品區",
             "County":"臺北市",
             "Township":null,
-            "address":"臺北市松山區八德路4段746號"
+            "address":"臺北市松山區八德路4段746號",
+            "AQI": 49,
+            "PM25": 13
          },
          "geometry":{
             "type":"Point",
@@ -587,7 +650,9 @@
             "AreaName":"花東空品區",
             "County":"花蓮縣",
             "Township":null,
-            "address":"花蓮縣花蓮市中正路210號"
+            "address":"花蓮縣花蓮市中正路210號",
+            "AQI": 31,
+            "PM25": 7
          },
          "geometry":{
             "type":"Point",
@@ -605,7 +670,9 @@
             "AreaName":"其他",
             "County":"金門縣",
             "Township":null,
-            "address":"金門縣金城鎮民權路32號"
+            "address":"金門縣金城鎮民權路32號",
+            "AQI": 38,
+            "PM25": 10
          },
          "geometry":{
             "type":"Point",
@@ -623,7 +690,9 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "address":"高雄市前金區河南二路196號"
+            "address":"高雄市前金區河南二路196號",
+            "AQI": 22,
+            "PM25": 4
          },
          "geometry":{
             "type":"Point",
@@ -641,7 +710,9 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "address":"高雄市前鎮區中山三路43號"
+            "address":"高雄市前鎮區中山三路43號",
+            "AQI": 12,
+            "PM25": 2
          },
          "geometry":{
             "type":"Point",
@@ -659,7 +730,9 @@
             "AreaName":"中部空品區",
             "County":"南投縣",
             "Township":null,
-            "address":"南投縣南投市南陽路269號"
+            "address":"南投縣南投市南陽路269號",
+            "AQI": 43,
+            "PM25": 13
          },
          "geometry":{
             "type":"Point",
@@ -677,7 +750,9 @@
             "AreaName":"高屏空品區",
             "County":"屏東縣",
             "Township":null,
-            "address":"屏東縣屏東市蘇州街75號"
+            "address":"屏東縣屏東市蘇州街75號",
+            "AQI": 37,
+            "PM25": 6
          },
          "geometry":{
             "type":"Point",
@@ -695,7 +770,9 @@
             "AreaName":"高屏空品區",
             "County":"屏東縣",
             "Township":null,
-            "address":"屏東縣恆春鎮公園路44號"
+            "address":"屏東縣恆春鎮公園路44號",
+            "AQI": 24,
+            "PM25": 4
          },
          "geometry":{
             "type":"Point",
@@ -713,7 +790,9 @@
             "AreaName":"高屏空品區",
             "County":"高雄市",
             "Township":null,
-            "address":"高雄市美濃區忠孝路19號"
+            "address":"高雄市美濃區忠孝路19號",
+            "AQI": 36,
+            "PM25": 7
          },
          "geometry":{
             "type":"Point",
@@ -731,7 +810,9 @@
             "AreaName":"竹苗空品區",
             "County":"苗栗縣",
             "Township":null,
-            "address":"苗栗縣苗栗市縣府路100號"
+            "address":"苗栗縣苗栗市縣府路100號",
+            "AQI": 24,
+            "PM25": 9
          },
          "geometry":{
             "type":"Point",
@@ -749,7 +830,9 @@
             "AreaName":"中部空品區",
             "County":"南投縣",
             "Township":null,
-            "address":"南投縣埔里鎮西安路1段193號"
+            "address":"南投縣埔里鎮西安路1段193號",
+            "AQI": 45,
+            "PM25": 44
          },
          "geometry":{
             "type":"Point",
@@ -767,7 +850,9 @@
             "AreaName":"北部空品區",
             "County":"桃園市",
             "Township":null,
-            "address":"桃園市桃園區莒光街15號"
+            "address":"桃園市桃園區莒光街15號",
+            "AQI": 35,
+            "PM25": 7
          },
          "geometry":{
             "type":"Point",
@@ -785,7 +870,9 @@
             "AreaName":"其他",
             "County":"澎湖縣",
             "Township":null,
-            "address":"澎湖縣馬公市中正路115號"
+            "address":"澎湖縣馬公市中正路115號",
+            "AQI": 26,
+            "PM25": 2
          },
          "geometry":{
             "type":"Point",
