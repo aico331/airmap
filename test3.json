@@ -411,8 +411,8 @@
             "County":"嘉義縣",
             "Township":null,
             "address":"嘉義縣朴子市光復路34號",
-            "AQI": ,
-            "PM25": 
+            "AQI":19 ,
+            "PM25":6
          },
          "geometry":{
             "type":"Point",
@@ -931,8 +931,8 @@
             "County":"雲林縣",
             "Township":null,
             "address":"雲林縣崙背鄉大成路91號",
-            "AQI": 19,
-            "PM25": 50
+            "AQI": 24,
+            "PM25": 7
          },
          "geometry":{
             "type":"Point",
